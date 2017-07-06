@@ -1,4 +1,4 @@
-Apinf bot
+apibot.ai
 =========
 
 A chatbot to get docs about specific APIs
@@ -8,7 +8,7 @@ A chatbot to get docs about specific APIs
      :alt: Built with Cookiecutter Django
 
 
-:License: MIT
+:License: EUPL-1.1
 
 
 Settings
