@@ -12,4 +12,5 @@ install:
 script:
 - make test
 after_success:
-- make build-production-image publish-image
+- make build-production-image
+- make publish-image
